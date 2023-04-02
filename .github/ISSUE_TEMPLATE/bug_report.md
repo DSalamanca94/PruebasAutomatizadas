@@ -14,7 +14,7 @@ descripción del comportamiento actual para el escenario de pruebas ejecutado.
 ## Evidencias
 Conjunto de imagenes o videos que complementan la información dada en el reporte.
 
-## Contexto:
+## Contexto (Ambiente de Ejecución):
 En esta sección se debe detallar el contexto en el que fue ejecutado el escenario de prueba.
 
 Versión de la app.
