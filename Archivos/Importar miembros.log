@@ -1,0 +1,55 @@
+vendor-d08b4de6f990b9cd7b5a92d61952a5bb.js:3164 [Intervention]Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: http://localhost:2368/ghost/assets/fonts/Inter-e19174fb2c0e19b1fa67492a07886c75.ttf
+Error with Feature-Policy header: Unrecognized origin: '"none"'.
+Error with Feature-Policy header: Unrecognized origin: '"none"'.
+Error with Feature-Policy header: Unrecognized origin: '"none"'.
+Error with Feature-Policy header: Unrecognized origin: '"none"'.
+Error with Feature-Policy header: Unrecognized origin: '"none"'.
+Error with Feature-Policy header: Unrecognized origin: '"none"'.
+Error with Feature-Policy header: Unrecognized origin: '"none"'.
+Error with Feature-Policy header: Unrecognized origin: '"none"'.
+VM25:2 Edge Translation started
+:2368/ghost/#/members:1 
+        
+       Tracking Prevention blocked access to storage for https://www.gravatar.com/avatar/97dfebf4098c0f5c16bca61e2b76c373?s=250&r=g&d=blank.
+:2368/ghost/#/site:1 [Intervention]Images loaded lazily and replaced with placeholders. Load events are deferred. See https://go.microsoft.com/fwlink/?linkid=2048113
+:2368/public/member-attribution.min.js?v=f0a6f7ec8a:1 
+        
+      
+        
+        
+      
+        
+      
+       
+        
+       Failed to load resource: the server responded with a status of 404 (Not Found)
+VM25:2 Edge revert page translation.
+:2368/ghost/#/members/new/:1 Autofocus processing was blocked because a document already has a focused element.
+VM25:2 Edge Translation started
+:2368/ghost/api/admin/members/upload/:1 
+        
+      
+        
+        
+      
+        
+      
+       
+        
+       Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ghost-4b392979da29476ec2b63e8437f26a9a.js:2201 
+        
+       Error: Request was rejected due to server error
+    at p._createCorrectError (vendor-d08b4de6f990b9cd7b5a92d61952a5bb.js:9283:37)
+    at p.handleResponse (vendor-d08b4de6f990b9cd7b5a92d61952a5bb.js:9274:205)
+    at p.handleResponse (ghost-4b392979da29476ec2b63e8437f26a9a.js:5258:167)
+    at Object.<anonymous> (vendor-d08b4de6f990b9cd7b5a92d61952a5bb.js:9261:70)
+    at l (vendor-d08b4de6f990b9cd7b5a92d61952a5bb.js:201:118)
+    at Object.fireWith [as rejectWith] (vendor-d08b4de6f990b9cd7b5a92d61952a5bb.js:202:698)
+    at O (vendor-d08b4de6f990b9cd7b5a92d61952a5bb.js:480:468)
+    at XMLHttpRequest.<anonymous> (vendor-d08b4de6f990b9cd7b5a92d61952a5bb.js:491:206)
+_uploadError @ ghost-4b392979da29476ec2b63e8437f26a9a.js:2201
+ghost-4b392979da29476ec2b63e8437f26a9a.js:2201 
+        
+       Error ID: 4a1a64e0-d186-11ed-95f5-ebbdb0d674a9
+_uploadError @ ghost-4b392979da29476ec2b63e8437f26a9a.js:2201
